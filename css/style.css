@@ -45,7 +45,7 @@ body{
 #row2{
     height:500px;
     width:100%;
-    background: url(../image/build1.jpeg);
+    background: url(../image/buil2.png);
     background-repeat: no-repeat;
     background-size: cover ;
     display: flex;
@@ -55,7 +55,7 @@ body{
 }
 .banner_section{
     width:80%;
-    color:#fff;
+    color:black;
     text-align:center ;
 
 
