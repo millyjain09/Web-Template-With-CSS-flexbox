@@ -75,3 +75,51 @@ body{
     border: none;
     border-radius: 10px;
 }
+/* ***************Featur Section******************* */
+#row3{
+    height:500px;
+   background-color: white;
+   padding-left: 30px;
+    
+
+}
+.service_section{ 
+    
+}
+.service_section h3{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.service_container{
+
+    width:90%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.service_item{ 
+    text-align: center;
+}
+.service_item i{
+    height:80px;
+    width:80px;
+    background-color: blue;
+    border-radius: 50%;
+    line-height: 80px;
+    font-size: 30px;
+}
+.service_item h4{
+    padding-top: 20px;
+}
+.service_item p{
+    text-align: center;
+   
+
+}
+
+
